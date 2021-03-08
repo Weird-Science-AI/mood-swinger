@@ -1,0 +1,19 @@
+{
+  "name": "mood-swinger",
+  "version": "1.0.0",
+  "description": "AI that determines mood and reinforces mood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weird-Science-AI/mood-swinger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weird-Science-AI/mood-swinger/issues"
+  },
+  "homepage": "https://github.com/Weird-Science-AI/mood-swinger#readme"
+}
